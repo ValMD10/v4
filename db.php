@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
-$dbname = 'valmd_tp_espacemembre';
-$username = 'root';
-$password = 'test123@+tp_espacemembre';
+$host = '';
+$dbname = '';
+$username = '';
+$password = '';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $username, $password);
