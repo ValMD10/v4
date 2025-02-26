@@ -1,0 +1,18 @@
+1. Git est un outil de gestion de versions. GitHub est une plateforme en ligne qui héberge 	des projets Git.
+
+
+
+2. Un repository est un dossier contenant un projet Git avec son historique des 	modifications.
+
+
+
+3. Commit : Enregistre les modifications.
+	Push : Envoie les modifications sur GitHub.
+	Pull : Récupère les dernières modifications depuis GitHub.
+
+4. README.md explique le projet (objectif, installation, utilisation).
+
+
+
+5. Pour récupérer un repository GitHub :
+	git clone https://github.com/utilisateur/nom-du-repository.git
