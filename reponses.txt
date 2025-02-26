@@ -1,8 +1,8 @@
-1. Git est un outil de gestion de versions. GitHub est une plateforme en ligne qui héberge 	des projets Git.
+1. Git est un outil de gestion de versions. GitHub est une plateforme en ligne qui héberge des projets Git.
 
 
 
-2. Un repository est un dossier contenant un projet Git avec son historique des 	modifications.
+2. Un repository est un dossier contenant un projet Git avec son historique des modifications.
 
 
 
